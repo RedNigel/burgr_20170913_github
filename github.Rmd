@@ -93,3 +93,5 @@ Related:
     * [Happy Git and GitHub for the useR](http://happygitwithr.com/)
 
 # Github Q&A
+
+  * [Nigel is testing something]
